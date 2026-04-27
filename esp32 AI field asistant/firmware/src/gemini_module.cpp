@@ -4,7 +4,7 @@
 #include <ArduinoJson.h>
 
 // --- IMPORTANT: INSERT YOUR GOOGLE GEMINI API KEY HERE ---
-const char* gemini_KEY = "AIzaSyCodpVSdOZ_3IbuGA3C2RdZCoapYK2GEc0"; 
+const char* gemini_KEY = "enter your gemini api key"; 
 
 String ask_gemini(String prompt_text) {
   if (prompt_text == "") return "I didn't hear anything.";
