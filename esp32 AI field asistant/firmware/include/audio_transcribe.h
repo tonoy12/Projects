@@ -7,7 +7,7 @@
 #include <LittleFS.h>
 
 // --- IMPORTANT: INSERT YOUR DEEPGRAM API KEY HERE ---
-const char* deepgramApiKey = "fd33a432fcb855c2461029e2a026b02be99557c9"; 
+const char* deepgramApiKey = "enter deepgram api key"; 
 
 String json_object(String input, String element) {
   String content = "";
