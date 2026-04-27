@@ -44,8 +44,8 @@
 #include "audio_transcribe.h"
 
 // --- CREDENTIALS (USE PHONE HOTSPOT!) ---
-const char* ssid = "poco";         
-const char* password = "senecaect"; 
+const char* ssid = "username";         
+const char* password = "enter your password here"; 
 
 // --- PIN CONFIGURATION ---
 #define I2S_SPK_BCLK 13
